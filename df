@@ -1,0 +1,29 @@
+[33mcommit 4359ddc5c25780696fa0aa13039e97b78fad04e7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: dickchest <dickchest@gmail.com>
+Date:   Wed Oct 4 19:54:23 2023 +0200
+
+    add 2 lines + file
+
+[33mcommit db506288219d2589c61132d474abd5181c522c6a[m
+Author: dickchest <dickchest@gmail.com>
+Date:   Wed Oct 4 19:41:17 2023 +0200
+
+    deleted file2.txt
+
+[33mcommit 45629a24dc9564d559201072f51ba9b0842954e8[m
+Author: dickchest <dickchest@gmail.com>
+Date:   Wed Oct 4 19:32:40 2023 +0200
+
+    add 2 lines
+
+[33mcommit 6d78b9b8c633257cf88d5d6b66dd00dc301f65e8[m
+Author: dickchest <dickchest@gmail.com>
+Date:   Wed Oct 4 19:28:10 2023 +0200
+
+    add new file song.txt
+
+[33mcommit 73eae38a44ad7f5f011c7eea9691bb83ae0f0e0f[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: dickchest <dickchest@gmail.com>
+Date:   Wed Oct 4 19:25:16 2023 +0200
+
+    init commit
